@@ -33,7 +33,7 @@ _In this great application you see live data about the financial world; ranging 
 * _Note: as at the launch of this Application there are no bugs but this is not the finished product as I will be adding more features later on. If anyone comes in contact with a bug, be sure to hit me up on social media or email me @emzzyoluwole@gmail.com. WATCH OUT FOR VERSION 1.1.0 WHICH IS COMING SOON. Also in version 1.1.0, I would be making use of some thing called promises to make my API call and this is just to show some of the many ways we can make an API call and to make application more fun and readable for users_
 
 ## WebLink
-https://emzzy241.github.io/Yay-Crypto-Stock/
+https://emzzy241.github.io/Yay-Crypto-Stock-1.0.0/
 
 ## License
 Licensed under the GNU General Public License
